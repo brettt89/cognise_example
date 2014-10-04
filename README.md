@@ -6,10 +6,15 @@ MYSQL Database Setup:
 
 database configuration is located at "application/config/database.php"
 Change -
+
 Hostname : Location of database
+
 Username : MYSQL username
+
 Password : MYSQL password
+
 database : MYSQL database schema
+
 
 MYSQL Database Create Command
 
